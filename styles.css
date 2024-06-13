@@ -4,6 +4,11 @@
     box-sizing: border-box;
 }
 
+hr {
+    height: 2px;
+    background-color: whitesmoke;
+}
+
 body {
     min-height: 100vh;
 }
