@@ -24,6 +24,7 @@
     font-size: 20px;
     color: azure;
     font-weight: 500;
+    padding-left: 15px;
 }
 
 #navbar-link li a {
@@ -35,5 +36,4 @@
     gap: 0 20px;
     color: azure;
     text-decoration: none;
-    left: 0;
 }
