@@ -14,9 +14,16 @@
     overflow-x: hidden;
 }
 
-#logo h1 {
+#logo {
     display: flex;
+    align-items: center;
     white-space: nowrap;
+}
+
+#logo h1 {
+    font-size: 20px;
+    color: azure;
+    font-weight: 500;
 }
 
 #navbar-link li a {
