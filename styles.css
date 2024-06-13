@@ -43,3 +43,8 @@
     color: azure;
     text-decoration: none;
 }
+
+#navbar-link li a :hover {
+    background-color: lightgrey;
+    border-radius: 4px;
+}
