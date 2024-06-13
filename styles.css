@@ -10,7 +10,7 @@ body {
 
 aside {
     display: flex;
-    position: relative;
+    position:fixed;
     height: 100vh;
     width: 230px;
     background-color: deepskyblue;
