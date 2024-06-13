@@ -65,3 +65,8 @@
     background-color: lightgrey;
     border-radius: 4px;
 }
+
+#header {
+    display: flex;
+    
+}
