@@ -20,6 +20,12 @@
     white-space: nowrap;
 }
 
+#logo img {
+    border-radius: 50%;
+    object-fit: contain;
+    size
+}
+
 #logo h1 {
     font-size: 20px;
     color: azure;
