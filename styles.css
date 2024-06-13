@@ -15,7 +15,6 @@ body {
 
 aside {
     display: flex;
-    flex-direction: column;
     overflow-x: hidden;
     position:fixed;
     height: 100vh;
@@ -30,5 +29,4 @@ ul {
     margin: 0;
     padding: 0;
     display: flex;
-
 }
