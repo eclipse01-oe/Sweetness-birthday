@@ -37,6 +37,10 @@
     padding-left: 15px;
 }
 
+#navbar-link {
+    padding: 5px;
+}
+
 #navbar-link li a {
     display: flex;
     align-items: center;
