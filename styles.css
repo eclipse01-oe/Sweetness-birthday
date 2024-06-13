@@ -1,7 +1,15 @@
 aside {
+    position: relative;
     height: 100vh;
     width: 160px;
     background-color: deepskyblue;
     padding-left: 0%;
     margin-left: 0%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#logo span {
+
 }
