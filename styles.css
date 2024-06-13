@@ -17,6 +17,8 @@ aside {
     justify-content: space-around;
 }
 
-#logo span {
-
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
 }
