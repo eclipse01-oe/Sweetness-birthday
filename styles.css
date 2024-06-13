@@ -14,7 +14,7 @@
     overflow-x: hidden; 
 }
 
-.navbar :hover{
+.navbar:hover{
     width: 250px;
 }
 
