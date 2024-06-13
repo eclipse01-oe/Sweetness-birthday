@@ -11,4 +11,10 @@
     background-color: darkblue;
     display: ;
     flex-direction: ;
+    overflow-x: hidden;
+}
+
+#logo h1 {
+    display: flex;
+    
 }
