@@ -7,11 +7,15 @@
 .navbar {
     position: fixed;
     height: 100%;
-    width: 250px;
+    width: 85px;
     background-color: darkblue;
     display: flex;
     flex-direction: column;
-    overflow-x: hidden;
+    overflow-x: hidden; 
+}
+
+.navbar :hover{
+    width: 250px;
 }
 
 #logo {
