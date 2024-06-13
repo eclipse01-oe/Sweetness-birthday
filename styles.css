@@ -40,6 +40,8 @@
 
 #navbar-link {
     padding: 5px;
+    display: flex;
+    align-items: center;
 }
 
 #navbar-link li a {
