@@ -14,15 +14,21 @@ body {
 }
 
 aside {
+    display: flex;
+    flex-direction: column;
+    overflow-x: hidden;
     position:fixed;
     height: 100vh;
     width: 230px;
     background-color: deepskyblue;
     justify-content: space-around;
+    
 }
 
 ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
+    display: flex;
+
 }
