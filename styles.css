@@ -39,9 +39,11 @@
 }
 
 #navbar-link {
+    padding: 5px;
     display: flex;
     flex-direction: column;
     align-items: center;
+    text-decoration: none;
 }
 
 #navbar-link li span{
