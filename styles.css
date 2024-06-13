@@ -9,7 +9,6 @@ body {
 }
 
 aside {
-    display: flex;
     position:fixed;
     height: 100vh;
     width: 230px;
