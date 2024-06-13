@@ -30,6 +30,7 @@
     object-fit: contain;
     width: 35%;
     white-space: nowrap;
+    padding-right: 10px;
 }
 
 #logo h1 {
