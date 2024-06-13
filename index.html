@@ -4,49 +4,90 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
     <link rel="stylesheet" href="styles.css"> 
     <title>SWEETNESS BIRTHDAY CARD AND WISHES</title>
 </head>
 <body> 
-
-    <!----side navbar-->
-    <aside>
-        <div>
-          <img src="" alt="logo">
-          <span>Sweetness birthday</span>
-        </div>
-        <ul>
-            <li>
-                <a href="">home</a>
-            </li>
-            <li>
-                <a href="">cards</a>
-            </li>
-            <li>
-                <a href="">birthday wishes</a>
-            </li>
-            <li>
-                <a href="">my pics</a>
-            </li>
-            <li>
-                <a href="">share</a>
-            </li>
-         </ul>
-   </aside>
-
-   <!----header-->
-   
+  
+  <!----side navbar-->
+  <aside>
     <div>
-        <h1>
-           HAPPY BIRTHDAY SWEETNESS EBONG
-        </h1>
-        <p>you are such a spectacular person enjoy your day</p>
-        <img src="" alt="birthday-hat">
-        <img src="" alt="birthday-ballon">
-        <img src="" alt="ribbons">
+      <img src="" alt="logo">
+      <span>Sweetness birthday</span>
+    </div>
+    <div>
+      <ul>
+        <li>
+          <a href="">home</a>
+        </li>
+        <li>
+          <a href="">cards</a>
+        </li>
+        <li>
+          <a href="">birthday wishes</a>
+        </li>
+        <li>
+          <a href="">my pics</a>
+        </li>
+        <li>
+          <a href="">share</a>
+        </li>
+      </ul>
     </div>
 
-    
+  </aside>
 
+  <!----header-->
+   
+  <div>
+    <h1>
+      HAPPY BIRTHDAY SWEETNESS EBONG
+    </h1>
+    <p>you are such a spectacular person enjoy your day</p>
+    <img src="" alt="birthday-hat">
+    <img src="" alt="birthday-ballon">
+    <img src="" alt="ribbons">
+  </div>
+
+
+
+
+
+
+
+
+ 
+
+
+  <script>
+    slideIndex = 0;
+    showSlides();
+ 
+    function showSlides() {
+      let i;
+      let slides = document.getElementsByClassName("mySlides");
+      for (i = 0; i < slides.length; i++) {
+        slides[i].style.display = "none";
+      }
+      slideIndex++;
+      if (slideIndex > slides.length) {slideIndex = 1}
+      slides[slideIndex-1].style.display = "block";
+      setTimeout(showSlides, 2000); // Change image every 2 seconds
+      let slideIndex = 0;
+      showSlides();
+    }
+    function showSlides() {
+      let i;
+      let slides = document.getElementsByClassName("mySlides");
+      for (i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";
+      }
+      slideIndex++;
+      if (slideIndex > slides.length) {slideIndex = 1}
+      slides[slideIndex-1].style.display = "block";
+      setTimeout(showSlides, 2000); // Change image every 2 seconds
+    }
+</script>
 </body>
-</html> 
+</html>  
