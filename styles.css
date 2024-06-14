@@ -46,6 +46,10 @@ body {
     padding-left: 25px;
 }
 
+hr {
+    width: 2px
+}
+
 #side-bar-link {
     padding: 5px;
     display: flex;
