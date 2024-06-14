@@ -75,7 +75,7 @@ body {
     border-radius: 4px;
 }
 
-#header {
+#header, #note{
   display: flex;
   flex-wrap: wrap;
   align-items: center;
@@ -125,11 +125,6 @@ body {
     width: 100px;
 }
 
-#note {
-    font-family: "kanit", sans-serif;
-    padding: 20px 20px 60px 20px;
-    margin: 20px;
-}
 
 #carouselbtn, .carousel-indicators {
     display: none;
