@@ -98,5 +98,5 @@ body {
 }
 
 #carouselbtn, .carousel-indicators {
-    opacity: 0.3; 
+    display: none;
 }
