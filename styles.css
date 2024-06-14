@@ -101,6 +101,8 @@ hr {
 #header img {
     position: absolute;
     width: 50px;
+    padding-left: 15px;
+    align-items: center;
 }
 
 #header p, #note p {
