@@ -74,5 +74,6 @@
     display: flex;
     flex-wrap: wrap;
     align-items: center;
-    padding-left: 30px;
+    padding-left: 40px;
+    margin-left: 15px;
 }
