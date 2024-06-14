@@ -115,11 +115,8 @@ body {
     position: relative; /* Relative positioning */
     left: 25%; /* Start from 2/3 of the screen */
     width: 66.67%; /* Stretch to the right */
+    height: 48vh;
 
-}
-
-.carousel-inner {
-    height: auto; /* Height can be set as needed */
 }
 
 .carousel-item img {
