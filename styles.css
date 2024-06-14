@@ -117,6 +117,12 @@ body {
     background-color: darkblue;
 }
 
+.arousel-inner{
+    align-items: center;
+    padding: 20px 20px 20x 60px;
+    margin: 10px 10px 10px 20px;
+}
+
 #cauroseldiv p {
     font-family: "kanit", sans-serif;
     margin: 10px 10px 10px 20px;
