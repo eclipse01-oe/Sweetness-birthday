@@ -113,7 +113,7 @@ body {
 
 .carousel {
     position: relative; /* Relative positioning */
-    left: 20%; /* Start from 2/3 of the screen */
+    left: 25%; /* Start from 2/3 of the screen */
     width: 66.67%; /* Stretch to the right */
     background-color: #005792;
 
