@@ -93,7 +93,7 @@ body {
     font-size: 50px;
 }
 
-#header p {
+#header p, #note p {
     padding: 10px;
     padding-left: 20px;
     padding-top: 0;
@@ -102,6 +102,7 @@ body {
     font-family: "kanti", sans-serif;
     font-size: 20px;
 }
+
 
 #cauroseldiv {
     display: flex;
