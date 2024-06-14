@@ -95,4 +95,5 @@ body {
 #cauroselExampleIndicators {
     padding: 15px 15px 15px 52px;
     margin: 5px 5px 5px 20px;
+    align-items: center;
 }
