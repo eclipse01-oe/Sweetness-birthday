@@ -89,7 +89,7 @@ body {
   padding-top: -35px;
 }
 
-#header h1{
+#header h1 p {
     padding: 20px;
     margin: 10px;
     position: absolute;
