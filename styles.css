@@ -118,14 +118,15 @@ hr {
     color: antiquewhite;
 }
 
+.carouseldiv {
+    background-color: #005792;
+}
 
 .carousel {
     position: relative; /* Relative positioning */
     left: 25%; /* Start from 2/3 of the screen */
     width: 66.67%; /* Stretch to the right */
     height: 48vh;
-    background-color: #005792;
-
 }
 
 .carousel-item img {
@@ -134,7 +135,6 @@ hr {
     border-radius: 8px;
     height: auto; /* Maintain aspect ratio */
     object-fit: cover; /* Cover the area without stretching */
-    background-color: #005792;
 }
 
 
