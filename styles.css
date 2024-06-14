@@ -49,15 +49,16 @@
     list-style: none;
 }
 
-#navbar-link li span{
-    text-decoration: none;
+#navbar-link li a span {
+
 }
+
 
 #navbar-link li a {
     display: flex;
     align-items: center;
     white-space: nowrap;
-    padding: 15px 20px;
+    padding: 15px 15px;
     margin: 10px 5px;
     gap: 0 25px;
     color: azure;
