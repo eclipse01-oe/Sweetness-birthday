@@ -103,13 +103,13 @@ hr {
 }
 
 #header .cake {
-    right: -15px;
-    bottom: 0;
+    right: -10px;
+    top: 30px;
     width: 85px;
 }
 
 #header .hat {
-    right: -13px;
+    right: -12px;
     top: 10px;
     width: 100px;
 }
