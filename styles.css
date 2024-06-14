@@ -104,6 +104,14 @@ body {
 }
 
 
+#note {
+    height: 100px;
+    background-color: #005792;
+
+}
+
+
+
 #cauroseldiv {
     display: flex;
     flex-wrap: wrap;
