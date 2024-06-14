@@ -111,30 +111,22 @@ body {
 }
 
 
-
-#cauroseldiv {
-    display: flex;
-    flex-wrap: wrap;
-    padding: 15px 15px 15px 52px;
-    margin: 15px 15px 5px 20px;
-    align-items: center;
+.carousel {
+    position: relative; /* Relative positioning */
+    left: 33.33%; /* Start from 2/3 of the screen */
+    width: 66.67%; /* Stretch to the right */
 }
 
-.carousel .slide{
-    align-items: center;
-    padding: 20px 20px 20px 60px;
-    margin: 10px 10px 10px 20px;
-    background-color: darkblue;
+.carousel-inner {
+    height: auto; /* Height can be set as needed */
 }
 
-.arousel-inner img{
-    align-items: center;
-    padding: 20px 20px 20x 60px;
-    margin: 10px 10px 10px 20px;
-    width: 100px;
+.carousel-item img {
+    width: 100%; /* Full width of the carousel */
+    height: auto; /* Maintain aspect ratio */
+    object-fit: cover; /* Cover the area without stretching */
 }
 
 
 #carouselbtn, .carousel-indicators {
-    display: none;
-}
+    display: none;}
