@@ -78,8 +78,8 @@ body {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  padding: 10px 15px 25px 52px;
-  margin: 10px 5px 5px 20px;
+  padding: 0 15px 25px 52px;
+  margin: 0 5px 5px 20px;
 }
 
 #header img {
@@ -87,6 +87,11 @@ body {
   position: relative;
   z-index: -1;
   padding-top: -35px;
+}
+
+#header h1{
+    padding-top: 0;
+    margin-top: 0;
 }
 
 #header h1 p {
