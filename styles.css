@@ -64,7 +64,7 @@ hr {
 
 
 #side-bar-link li a {
-    display: fulex;
+    display: flex;
     align-items: center;
     white-space: nowrap;
     padding: 15px 15px;
