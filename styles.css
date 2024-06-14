@@ -89,12 +89,18 @@ hr {
 
 
 #header h1 {
+    position: relative;
     padding: 10px;
     padding-left: 20px;
     margin: 5px 5px 0 5px;
     font-weight: 500;
     font-family: "kanit", sans-serif;
     font-size: 50px;
+}
+
+#header img {
+    position: absolute;
+    width: 50px;
 }
 
 #header p, #note p {
