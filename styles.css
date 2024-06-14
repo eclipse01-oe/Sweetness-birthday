@@ -107,6 +107,7 @@ body {
 #note {
     height: 100px;
     background-color: #005792;
+    box-sizing: border-box;
 }
 
 #note p {
