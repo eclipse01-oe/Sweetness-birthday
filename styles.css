@@ -28,16 +28,17 @@
 #logo img {
     border-radius: 50%;
     object-fit: contain;
-    width: 40%;
+    width: 30%;
     white-space: nowrap;
     padding-right: 10px;
+    margin-right: 10px;
 }
 
 #logo h1 {
     font-size: 20px;
     color: azure;
     font-weight: 500;
-    padding-left: 30px;
+    padding-left: 35px;
 }
 
 #navbar-link {
