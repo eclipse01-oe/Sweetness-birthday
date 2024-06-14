@@ -104,13 +104,13 @@ hr {
 }
 
 #header .cake {
-    right: -15px;
-    top: 10px;
+    right: -13px;
+    bottom: 0;
 }
 
 #header .hat {
-    right: -15px;
-    top: 20px;
+    right: -13px;
+    top: 10px;
 }
 
 #header p, #note p {
