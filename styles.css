@@ -100,17 +100,18 @@ hr {
 
 #header img {
     position: absolute;
-    width: 100px;
 }
 
 #header .cake {
-    right: -13px;
+    right: -15px;
     bottom: 0;
+    width: 85px;
 }
 
 #header .hat {
     right: -13px;
     top: 10px;
+    width: 100px;
 }
 
 #header p, #note p {
