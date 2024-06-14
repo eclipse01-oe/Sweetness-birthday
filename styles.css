@@ -26,9 +26,9 @@
 }
 
 #logo img {
-    border-radius: 40%;
+    border-radius: 30%;
     object-fit: contain;
-    width: 42px;
+    width: 46px;
     white-space: nowrap;
     padding-left: 10px;
     margin-left: 10px;
