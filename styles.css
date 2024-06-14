@@ -128,5 +128,6 @@ body {
 }
 
 
-#carouselbtn, .carousel-indicators {
-    display: none;}
+.carousel-indicators, #carouselbtn {
+    display: none;
+}
