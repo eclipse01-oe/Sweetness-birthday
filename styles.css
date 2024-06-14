@@ -125,6 +125,8 @@ body {
 
 .carousel-item img {
     width: 100%; /* Full width of the carousel */
+    height: auto;
+    border-radius: 20px;
     height: auto; /* Maintain aspect ratio */
     object-fit: cover; /* Cover the area without stretching */
 }
