@@ -123,18 +123,14 @@ hr {
     font-family: "Playfair", sans-serif;
     font-style: italic;
     font-size: 20px;
+    color: antiquewhite;
 }
 
 
 #note {
-    height: 100px;
+    height: 80px;
     background-color: #005792;
     box-sizing: border-box;
-}
-
-#note p {
-    color: antiquewhite;
-    font-family: "Playfair", sans-serif;
 }
 
 .carouseldiv {
