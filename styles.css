@@ -101,8 +101,16 @@ hr {
 #header img {
     position: absolute;
     width: 100px;
-    padding-left: 15px;
-    align-items: center;
+}
+
+#header .cake {
+    right: -15px;
+    top: 10px;
+}
+
+#header .hat {
+    right: -15px;
+    top: 20px;
 }
 
 #header p, #note p {
