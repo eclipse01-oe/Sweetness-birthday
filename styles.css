@@ -96,6 +96,7 @@ body {
 #header p {
     padding: 10px;
     padding-left: 20px;
+    padding-top: 0;
     margin: 5px;
     font-weight: 500;
     font-family: "kanti", sans-serif;
