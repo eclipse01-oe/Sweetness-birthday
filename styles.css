@@ -38,7 +38,7 @@
     font-size: 20px;
     color: azure;
     font-weight: 500;
-    padding-left: 35px;
+    padding-left: 25px;
 }
 
 #navbar-link {
@@ -50,7 +50,7 @@
 }
 
 #navbar-link li a span {
-
+    padding-right: 10px; 
 }
 
 
