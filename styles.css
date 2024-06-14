@@ -85,6 +85,10 @@
 
 /* Slideshow container */
 
+#slide-show {
+  display: flex;
+}
+
 .slideshow-container {
   max-width: 1000px;
   position: relative;
@@ -110,6 +114,7 @@
   transition: 0.6s ease;
   border-radius: 0 3px 3px 0;
   user-select: none;
+  display: none;
 }
 
 /* Position the "next button" to the right */
