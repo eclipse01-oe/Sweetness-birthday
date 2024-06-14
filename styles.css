@@ -93,6 +93,7 @@ body {
     padding: 15px 15px 15px 52px;
     margin: 5px 5px 5px 20px;
     align-items: center;
+    background-color: darkblue;
 }
 
 #carouselbtn, .carousel-indicators {
