@@ -115,7 +115,6 @@ body {
     position: relative; /* Relative positioning */
     left: 25%; /* Start from 2/3 of the screen */
     width: 66.67%; /* Stretch to the right */
-    background-color: #005792;
 
 }
 
@@ -125,10 +124,11 @@ body {
 
 .carousel-item img {
     width: 100%; /* Full width of the carousel */
-    height: auto;
-    border-radius: 20px;
+    height: auto; 
+    border-radius: 8px;
     height: auto; /* Maintain aspect ratio */
     object-fit: cover; /* Cover the area without stretching */
+    background-color: #005792;
 }
 
 
