@@ -28,9 +28,9 @@
 #logo img {
     border-radius: 30%;
     object-fit: contain;
-    width: 46px;
+    width: 50px;
     white-space: nowrap;
-    padding-left: 10px;
+    padding-left: 8px;
     margin-left: 10px;
 }
 
@@ -74,6 +74,6 @@
     display: flex;
     flex-wrap: wrap;
     align-items: center;
-    padding-left: 50px;
-    margin-left: 15px;
+    padding-left: 52px;
+    margin-left: 20px;
 }
