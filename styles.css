@@ -26,11 +26,11 @@
 }
 
 #logo img {
-    border-radius: 50%;
+    border-radius: 40%;
     object-fit: contain;
     width: 30%;
     white-space: nowrap;
-    padding-left: 10px;
+    padding-left: 15px;
     margin-left: 10px;
 }
 
