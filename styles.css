@@ -110,6 +110,15 @@ hr {
     width: 95px;
 }
 
+#header .hat2 {
+    width: 95px;
+}
+
+#header .hat {
+    width: 95px;
+    align-items: center;
+}
+
 #header .cake {
     right: 50px;
     top: 10px;
