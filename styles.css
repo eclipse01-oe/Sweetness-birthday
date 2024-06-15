@@ -117,6 +117,7 @@ hr {
 #header .hat3 {
     width: 95px;
     align-items: center;
+    top: 10px;
 }
 
 #header .cake {
